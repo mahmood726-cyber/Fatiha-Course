@@ -1,0 +1,437 @@
+{
+  "root": "C:\\Users\\user\\Downloads\\Fatiha course",
+  "total_files": 47,
+  "files_with_issues": 0,
+  "totals": {
+    "load_errors": 0,
+    "runtime_errors": 0,
+    "nav_errors": 0,
+    "broken_refs": 0,
+    "slides_checked": 3209
+  },
+  "files": [
+    {
+      "file": "advanced-meta-analysis-course.html",
+      "module_count": 9,
+      "slides_checked": 88,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "ai-meta-analysis-course.html",
+      "module_count": 15,
+      "slides_checked": 89,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "becoming-methodologist.html",
+      "module_count": 9,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "cast-when-certainty-kills.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "dta-course-when-the-test-lies-v2.html",
+      "module_count": 14,
+      "slides_checked": 63,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "dta-course-when-the-test-lies-v3.html",
+      "module_count": 24,
+      "slides_checked": 117,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "dta-course-when-the-test-lies-v4.html",
+      "module_count": 20,
+      "slides_checked": 105,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "dta-course-when-the-test-lies.html",
+      "module_count": 11,
+      "slides_checked": 73,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "grade-certainty-course-es.html",
+      "module_count": 10,
+      "slides_checked": 98,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "grade-certainty-course-fr.html",
+      "module_count": 3,
+      "slides_checked": 40,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "grade-certainty-course.html",
+      "module_count": 10,
+      "slides_checked": 144,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "hta-oman-course.html",
+      "module_count": 11,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-ar.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-de.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-es.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-fr.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-hi.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-it.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-ja.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-ko.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-pt.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-ru.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index-zh.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "index.html",
+      "module_count": 0,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "ipd-meta-analysis-course.html",
+      "module_count": 16,
+      "slides_checked": 106,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "living-reviews-course.html",
+      "module_count": 7,
+      "slides_checked": 61,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "meta-analysis-methods-course-es.html",
+      "module_count": 15,
+      "slides_checked": 121,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "meta-analysis-methods-course.html",
+      "module_count": 15,
+      "slides_checked": 121,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "meta-analysis-topic-selection-course.html",
+      "module_count": 7,
+      "slides_checked": 65,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "meta-analysis-writing-course.html",
+      "module_count": 26,
+      "slides_checked": 132,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "meta-sprint-course.html",
+      "module_count": 9,
+      "slides_checked": 142,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "observational-evidence-course.html",
+      "module_count": 12,
+      "slides_checked": 127,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "prognostic-reviews-course.html",
+      "module_count": 12,
+      "slides_checked": 101,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "publication-bias-detective.html",
+      "module_count": 8,
+      "slides_checked": 144,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "qualitative-evidence-synthesis-course.html",
+      "module_count": 10,
+      "slides_checked": 147,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "rapid-reviews-course-es.html",
+      "module_count": 9,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "rapid-reviews-course-fr.html",
+      "module_count": 9,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "rapid-reviews-course.html",
+      "module_count": 9,
+      "slides_checked": 0,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "risk-of-bias-mastery-course-es.html",
+      "module_count": 7,
+      "slides_checked": 50,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "risk-of-bias-mastery-course-fr.html",
+      "module_count": 7,
+      "slides_checked": 50,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "risk-of-bias-mastery-course.html",
+      "module_count": 7,
+      "slides_checked": 50,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "synthesis-course-fr.html",
+      "module_count": 25,
+      "slides_checked": 280,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "synthesis-course-original.html",
+      "module_count": 15,
+      "slides_checked": 128,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "synthesis-course.html",
+      "module_count": 25,
+      "slides_checked": 382,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "truthcert-course-fr.html",
+      "module_count": 9,
+      "slides_checked": 47,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "truthcert-course.html",
+      "module_count": 10,
+      "slides_checked": 67,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    },
+    {
+      "file": "umbrella-reviews-course.html",
+      "module_count": 7,
+      "slides_checked": 71,
+      "load_errors": [],
+      "runtime_errors": [],
+      "nav_errors": [],
+      "broken_refs": []
+    }
+  ]
+}
