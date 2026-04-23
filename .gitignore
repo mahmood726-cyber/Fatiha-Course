@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
+STUCK_FAILURES.md
+STUCK_FAILURES.jsonl
+sentinel-findings.md
+sentinel-findings.jsonl

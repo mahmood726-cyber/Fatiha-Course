@@ -1,6 +1,6 @@
 ﻿# Translation and Audit Changelog
 Date: 2026-02-17
-Folder: C:\Users\user\Downloads\Fatiha course
+Folder: Fatiha-Course (repo root)
 
 ## Scope Completed
 - Full localization completion across all existing localized HTML files.
